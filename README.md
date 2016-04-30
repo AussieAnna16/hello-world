@@ -1,2 +1,3 @@
 # hello-world
 Have no idea yet what is going to go into this repository......
+Technologically challenged scientist, determined to get a grasp of big data and how to manage it!
